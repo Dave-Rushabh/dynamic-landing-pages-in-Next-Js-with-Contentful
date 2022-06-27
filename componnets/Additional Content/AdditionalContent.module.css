@@ -1,0 +1,53 @@
+.main {
+  background-color: white;
+  margin-top: -10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 40px;
+  position: relative;
+}
+
+.news {
+  width: 65%;
+  padding: 40px;
+  border-right: 2px solid brown;
+}
+
+.title {
+  font-size: x-large;
+  text-decoration: underline;
+  font-weight: 800;
+  color: brown;
+}
+
+.header {
+  font-size: large;
+  font-weight: 600;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.para {
+  margin-top: 10px;
+}
+
+.para > p {
+  margin-top: 20px;
+  text-align: justify;
+}
+
+.img {
+  margin-top: 20px;
+}
+
+.hName {
+  text-decoration: underline;
+}
+
+.others {
+  width: 35%;
+  padding: 40px;
+}
